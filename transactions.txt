@@ -1,2 +1,0 @@
-1, Fight Number: Fight 1, Number of tickets: 13, cost: 325.0
-1, Fight Number: Fight 1, Number of tickets: 1, cost: 25.0
